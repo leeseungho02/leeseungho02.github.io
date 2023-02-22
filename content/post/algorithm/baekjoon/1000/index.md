@@ -1,7 +1,7 @@
 ---
 author: 이승호
 title: A+B
-date: Feb 22, 2023
+date: 2023-02-22
 categories: [
     "알고리즘",
 ]
