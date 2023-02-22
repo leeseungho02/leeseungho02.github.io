@@ -2,7 +2,7 @@
 menu:
     main:
         name: Home
-        weight: 100
+        weight: -100
         params:
             icon: home
 ---

@@ -1,3 +1,4 @@
 public
 assets/jsconfig.json
 .hugo_build.lock
+template.md
