@@ -6,6 +6,7 @@ date: 2023-02-22
 categories: [
     "알고리즘-백준",
 ]
+keywords: "알고리즘 백준 A+B www.acmicpc.net/problem/1000"
 ---
 
 ## 원글
