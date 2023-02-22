@@ -1,6 +1,6 @@
 ---
 author: 이승호
-title: A+B
+title: A + B
 description: "난이도: 브론즈 V"
 date: 2023-02-22
 categories: [
